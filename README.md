@@ -23,4 +23,4 @@ Optional : For the large poster, load the low-res image first, switch to high-re
 ## Walkthrough of all user stories:
 
 
-![ios tipcalc]()
+![ios Rotten Eggs](https://github.com/vrajkumar15/RottenEggs_IOS/blob/master/Rotten%20Tomatoes/RottenEggs.gif)
